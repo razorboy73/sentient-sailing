@@ -69,7 +69,6 @@
         "enable_video_looping": false
       }
     },
-
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
