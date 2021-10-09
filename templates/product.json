@@ -53,10 +53,10 @@
     },
     "product-recommendations": {
       "type": "product-recommendations"
+    },
+    "simple-textbox": {
+      "type": "simple-textbox"
     }
   },
-  "order": [
-    "main",
-    "product-recommendations"
-  ]
+  "order": ["main", "product-recommendations", "simple-textbox"]
 }
