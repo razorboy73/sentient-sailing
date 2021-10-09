@@ -80,10 +80,7 @@
         "show_vendor": false,
         "show_rating": false
       }
-    },
-    "simple-textbox": {
-      "type": "simple-textbox"
     }
   },
-  "order": ["main", "simple-textbox", "product-recommendations"]
+  "order": ["main", "product-recommendations"]
 }
