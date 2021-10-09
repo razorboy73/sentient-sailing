@@ -69,13 +69,7 @@
         "enable_video_looping": false
       }
     },
-    "simple-textbox": {
-      "type": "simple-textbox",
-      "settings": {
-        "custom_text_title": "",
-        "custom_text_body": ""
-      }
-    },
+
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
